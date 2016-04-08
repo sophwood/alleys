@@ -23,7 +23,7 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper" align="center">
+    <div class="wrapper">
       <p>my_alley</p>
       <img src="imgs/my_alley.jpg"></br>
       <p>tree_alley</p>
