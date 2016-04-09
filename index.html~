@@ -23,11 +23,35 @@
     <![endif]-->
   </head>
   <body>
-    <div class="wrapper">
+    <div class="wrapper" align="center">
       <p>my_alley</p>
       <img src="imgs/my_alley.jpg"></br>
       <p>tree_alley</p>
       <img src="imgs/tree_alley.jpg"></br>
+      <p>alley_7</p>
+      <img src="imgs/alley_7.jpg"></br>
+      
+      <p>alley_47</p>
+      <img src="imgs/alley_48.jpg"></br>
+      <p>alley_47</p>
+      <img src="imgs/alley_48.jpg"></br>
+      
+      
+      <p>new_alley</p>
+      <img src="imgs/new_alley.jpg"></br>
+      <p>small_alley</p>
+      <img src="imgs/small_alley.jpg"></br>
+      <p>trash_alley</p>
+      <img src="imgs/trash_alley.jpg"></br>
+      
+      <p>stoop_alley</p>
+      <img src="imgs/stoop_alley.jpg"></br>
+      <p>alley_v3.5b56</p>
+      <img src="imgss/alley_v3.5b56.jpg"></br>
+      
+      
+      
+      
     </div>
   </body>
 </html>
